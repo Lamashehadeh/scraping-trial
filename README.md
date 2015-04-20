@@ -1,7 +1,5 @@
 # scraping-trial
 
-trial commit
-
 ### Instructions
 1. Install nodemon if you haven't before: `$ npm install nodemon -g`
 2. `git clone` repo locally
