@@ -1,0 +1,11 @@
+{
+  "name"         : "scraping",
+  "version"      : "0.0.1",
+  "main"         : "index.js",
+  "author"       : "Scotch",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
